@@ -15,7 +15,7 @@
   <groupId>org.superbiz</groupId>
   <artifactId>deltaspike-fullstack</artifactId>
   <name>OpenEJB :: Examples :: JSF2/CDI/BV/JPA/DeltaSpike</name>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.1.2</version>
 
   <packaging>war</packaging>
 
@@ -25,8 +25,8 @@
     <version.myfaces2>2.2.5</version.myfaces2>
     <version.deltaspike>1.0.1</version.deltaspike>
     <version.extval>2.0.8</version.extval>
-    <version.openejb>7.0.0-SNAPSHOT</version.openejb>
-    <version.tomee>7.0.0-SNAPSHOT</version.tomee>
+    <version.openejb>7.0.0-M1</version.openejb>
+    <version.tomee>7.0.0-M1</version.tomee>
   </properties>
 
   <build>
